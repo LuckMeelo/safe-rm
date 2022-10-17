@@ -1,2 +1,1 @@
 # safe-rm
-safe-rm
