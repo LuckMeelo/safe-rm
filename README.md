@@ -4,7 +4,8 @@
 
 ## Usage
 
-By default, `safe-rm [FILE(s)]` delete FILE(s) and save a compressed temp copy(with infos: date, original folder etc..)
+<p style="margin-left:50px;">By default, <strong>safe-rm [FILE(s)]</strong> delete FILE(s) and save a compressed temp copy(with infos: date, original folder etc..).</p>
+<br/>
 <pre>
 <strong>-l, --list**</strong>
     List all deleted files<br/>
